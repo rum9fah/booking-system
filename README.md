@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🏊 S-Tier Pool Booking System
+A smart, high-end booking app for Bahrain's luxury pools—built for speed and reliability.
 
-## Getting Started
+🚀 View Live Project : https://y-delta-gray.vercel.app/
 
-First, run the development server:
+💡 The Goal
+I wanted to fix the messy process of booking pools over WhatsApp. This app takes that manual work and automates it. It gives owners a real database and gives customers a smooth, Apple-inspired experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🛠️ How it Works
+Smart Booking: Uses React and TypeScript to make sure the app is fast and the data is error-free.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Real-Time Database: I integrated Supabase to handle all user data and bookings instantly.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Clean UI: A minimalist, high-end design that stays out of the user's way.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Auto-Sync: Because it's connected to a cloud database, a pool booked at 2 PM is updated for everyone immediately.
 
-## Learn More
+💻 Tech Stack
+Frontend: React.js with TypeScript for rock-solid code.
 
-To learn more about Next.js, take a look at the following resources:
+Backend/Database: Supabase (PostgreSQL) for cloud storage.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Hosting: Vercel for fast, global delivery.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+👤 About the Developer
+Hadi Hussain
+I am a Cloud Computing and Information Systems student at Bahrain Polytechnic. I’ve worked on over 20 web projects, and my focus is always on building systems that are simple, logical, and effective.
